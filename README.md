@@ -38,9 +38,7 @@
   <a href="https://github.com/jquense/yup">
     <img alt="Yup version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/nodejs-api-happy/yup">
   </a>
-
-  <img alt="Github last commit" src="https://wakatime.com/badge/github/eduardomantz291/nodejs-api-happy.svg">
-
+  
   <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/nodejs-api-happy">
 </p>
 
