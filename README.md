@@ -8,45 +8,45 @@
   <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/nodejs-api-happy">
 
   <a href="https://github.com/expressjs/cors">
-    <img alt="Cors version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/nodejs-rocketseat-next-level-week-3-happy/cors">
+    <img alt="Cors version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/nodejs-api-happy/cors">
   </a>
 
   <a href="https://expressjs.com/">
-    <img alt="Express version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/nodejs-rocketseat-next-level-week-3-happy/express">
+    <img alt="Express version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/nodejs-api-happy/express">
   </a>
 
   <a href="https://github.com/davidbanham/express-async-errors">
-    <img alt="Express Async Errors version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/nodejs-rocketseat-next-level-week-3-happy/express-async-errors">
+    <img alt="Express Async Errors version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/nodejs-api-happy/express-async-errors">
   </a>
 
   <a href="https://github.com/expressjs/multer">
-    <img alt="Multer version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/nodejs-rocketseat-next-level-week-3-happy/express-async-errors">
+    <img alt="Multer version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/nodejs-api-happy/express-async-errors">
   </a>
 
   <a href="https://github.com/kriasoft/node-sqlite">
-    <img alt="SQLite version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/nodejs-rocketseat-next-level-week-3-happy/express-async-errors">
+    <img alt="SQLite version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/nodejs-api-happy/express-async-errors">
   </a>
 
   <a href="https://www.typescriptlang.org/">
-    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/nodejs-rocketseat-next-level-week-3-happy/dev/typescript">
+    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/nodejs-api-happy/dev/typescript">
   </a>
 
   <a href="https://typeorm.io/#/">
-    <img alt="TypeORM version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/nodejs-rocketseat-next-level-week-3-happy/typeorm">
+    <img alt="TypeORM version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/nodejs-api-happy/typeorm">
   </a>
 
   <a href="https://github.com/jquense/yup">
-    <img alt="Yup version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/nodejs-rocketseat-next-level-week-3-happy/yup">
+    <img alt="Yup version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/nodejs-api-happy/yup">
   </a>
 
-  <img alt="Github last commit" src="https://wakatime.com/badge/github/gbdsantos/nodejs-rocketseat-next-level-week-3-happy.svg">
+  <img alt="Github last commit" src="https://wakatime.com/badge/github/eduardomantz291/nodejs-api-happy.svg">
 
-  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/gbdsantos/nodejs-rocketseat-next-level-week-3-happy">
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/nodejs-api-happy">
 </p>
 
 <div align="center">
   <h4 align="center">Read on Languages</h4>
-  <a href="https://github.com/gbdsantos/nodejs-rocketseat-next-level-3-week-happy/blob/master/README-PT-BR.md">🇧🇷
+  <a href="https://github.com/eduardomantz291/nodejs-rocketseat-next-level-3-week-happy/blob/master/README-PT-BR.md">🇧🇷
   </a>
 </div>
 
